@@ -17,14 +17,14 @@ Hello, My name is Maor, I'm 16 years old and i'm from Israel. I have israeli rol
 ** **
 ----------
 
-**🔗 - My Discord Username:**
+**🔗 - My Discord Username:DRIPZY#0001**
 ** **
 ----------
 
-**📪- My Contact E-Mail:**
+**📪- My Contact E-Mail:dripzyq@gmail.com**
 # My Works and Projects:
 ** **
-**📂My Own Website:**
+**📂My Own Website:Soon**
 ** **
 **🔐My  _"QBFramework"_  Custom Activate Officers Script:**
 # My Future Projects:
