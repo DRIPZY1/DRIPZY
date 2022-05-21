@@ -9,7 +9,7 @@ Hello, My name is Maor, I'm 16 years old and i'm from Israel. I have israeli rol
 **📪- My Contact E-Mail:dripzyq@gmail.com**
 # My Works and Projects:
 
-**🔐My  _"QBFramework"_  Custom Activate Officers Script:**
+**🔐My  _"QBFramework & ESX"_ Scripts Soon:**
 ** **
 **👨‍💻My Small projects available here - https://github.com/DRIPZYZX?tab=repositories**
 
