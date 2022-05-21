@@ -16,6 +16,7 @@ Hello, My name is Maor, I'm 16 years old and i'm from Israel. I have israeli rol
 
 ## 📑My Knowledge On Developer:
 -   **HTML**
+-   **LUA**
 -   **CSS**
 -   **JAVASCRIPT**
 
